@@ -22,3 +22,11 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+
+distilbert_model/
+bert_ai_human_detector/
+
+temp.csv
+ai_human_classifier.ipynb
+ai_human_classifier copy.ipynb
+combined_ai_human.csv
